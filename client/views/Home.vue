@@ -1,7 +1,7 @@
 <template>
   <div class="page">
     <p>
-      Awaken!
+      Awaken?
     </p>
   </div>
 </template>
